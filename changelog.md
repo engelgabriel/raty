@@ -6,6 +6,8 @@
 
 The read-only indicator was not removing after the reset of configuration, blocking the `click` and `score` functions.
 
+By Konecty.
+
 ## 2.5.1
 
 ### News
