@@ -108,3 +108,5 @@ The MIT License
 ## Love it!
 
 Via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X8HEP2878NDEG&item_name=jQuery%20Raty) or [Gittip](http://www.gittip.com/wbotelhos). Thanks! (:
+
+## By Konecty
